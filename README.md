@@ -16,7 +16,7 @@
 
 6. Fold the top point down so that the upper tip meets where the previous folds connected.
 
-7. Fold the entire plane in half length-wise with the folds in the center of the plane.
+7. Fold the entire plane in half length-wise with the folds in the center of the plane in the opposite direction of original crease.
 
 8. Place the plane in front of you horizontally and fold the wings down so that the fold makes a straight line from the top of the nose.
 
